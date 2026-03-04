@@ -33,3 +33,6 @@ NumPy
 Streamlit  
 
 ---
+## Contribution
+![Space Game](dist/game.gif)
+---

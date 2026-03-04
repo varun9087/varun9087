@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there I'm Varun
 
-<!--
-**varun9087/varun9087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=varun9087&color=blue)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Computer Science student interested in:
+
+- Machine Learning
+- Artificial Intelligence
+
+---
+
+## Projects
+
+- ML Student Admission Predictor
+- Sentiment Analysis Model
+- House Price Prediction
+
+---
+
+## Technologies
+
+Python  
+Machine Learning  
+Scikit-learn  
+Pandas  
+NumPy  
+Streamlit  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varun9087&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varun9087&layout=compact)

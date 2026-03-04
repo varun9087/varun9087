@@ -1,0 +1,27 @@
+name: Generate Space Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate space game gif
+        uses: Platane/snk@v3
+        with:
+          github_user_name: varun9087
+          outputs: |
+            dist/game.gif
+
+      - name: Push animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: dist/game.gif
+          message: Update space shooter animation

@@ -20,6 +20,7 @@ Computer Science student interested in:
 - ML Student Admission Predictor
 - Sentiment Analysis Model
 - House Price Prediction
+- Digit Classification
 
 ---
 
